@@ -43,6 +43,7 @@ After activating the virtual environment, launch Jupyter.
 
 # Quick Start
 **DOWNLOAD PREPROCESSED DATASET HERE:** https://drive.google.com/file/d/1NdNzIcfKYbauhbWqxVM6kM9WFYr8nlui/view?usp=sharing
+
 To start training, run these sections in order:
 1. **Setup**: Imports libraries and configures paths. Run all the cells under the Setup header (up until visualization BEFORE preprocessing).
 2. **Configuration for Block SVD**: Sets the compression parameters ($k$, block size, etc.).
